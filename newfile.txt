@@ -6,5 +6,4 @@ we are trying to push 2nd time
 
 we are trying to pull the data 3rd time 
 
-commiting changes to master
 
